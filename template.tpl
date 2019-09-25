@@ -1,8 +1,13 @@
+___TERMS_OF_SERVICE___
+
+By creating or modifying this file you agree to Google Tag Manager's Community Template Gallery Developer Terms of Service available at https://developers.google.com/tag-manager/gallery-tos (or such other URL as Google may provide), as modified from time to time.
+
 ﻿___INFO___
 
 {
   "displayName": "Indicative Analytics",
   "description": "This tag implements basic event tracking for use in Indicative.",
+  "categories": ["ANALYTICS", "ATTRIBUTION", "CONVERSION_TRACKING", "DATA_WAREHOUSING", "EMAIL_MARKETING"],
   "securityGroups": [],
   "id": "cvt_temp_public_id",
   "type": "TAG",
