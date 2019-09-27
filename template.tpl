@@ -7,7 +7,7 @@ By creating or modifying this file you agree to Google Tag Manager's Community T
 {
   "displayName": "Indicative Analytics",
   "description": "This tag implements basic event tracking for use in Indicative.",
-  "categories": ["ANALYTICS", "ATTRIBUTION", "CONVERSION_TRACKING", "DATA_WAREHOUSING", "EMAIL_MARKETING"],
+  "categories": ["ANALYTICS", "ATTRIBUTION", "CONVERSIONS", "DATA_WAREHOUSING", "EMAIL_MARKETING"],
   "securityGroups": [],
   "id": "cvt_temp_public_id",
   "type": "TAG",
